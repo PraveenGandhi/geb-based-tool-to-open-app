@@ -5,7 +5,7 @@ mainClassName = "App"
 
 repositories {
 	mavenLocal()
-    mavenCentral()
+	mavenCentral()
 }
 
 dependencies{
